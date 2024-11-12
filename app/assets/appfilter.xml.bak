@@ -6988,7 +6988,6 @@
   <item component="ComponentInfo{com.pure.indosat.care/com.pure.indosat.care.MainActivity}" drawable="myim3" name="myIM3" />
   <item component="ComponentInfo{com.pure.indosat.care/com.pure.indosat.care.SplashscreenActivity}" drawable="myim3" name="myIM3" />
   <item component="ComponentInfo{com.myinsta.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="MyInsta" />
-  <item component="ComponentInfo{com.instapro.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="InstaPro" />
   <item component="ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivityAlias2}" drawable="myjio" name="MyJio" />
   <item component="ComponentInfo{com.jio.myjio/com.jio.myjio.activities.StartAllAppView}" drawable="myjio" name="MyJio" />
   <item component="ComponentInfo{com.jio.myjio/com.jio.myjio.activities.StartFolderView}" drawable="myjio" name="MyJio" />
