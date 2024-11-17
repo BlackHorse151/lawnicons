@@ -5083,6 +5083,8 @@
   <item component="ComponentInfo{com.instantgaming.android/com.instantgaming.android.Activities.WebViewActivity}" drawable="instant_gaming" name="Instant Gaming" />
   <item component="ComponentInfo{com.instapaper.android/com.instapaper.android.activity.HomeActivity}" drawable="instapaper" name="Instapaper" />
   <item component="ComponentInfo{com.instapaper.android/com.instapaper.android.MainActivity}" drawable="instapaper" name="Instapaper" />
+  <item component="ComponentInfo{com.instapro.android/com.instagram.android.activity.MainTabActivity}" drawable="instapro" name="InstaPro" />
+  <item component="ComponentInfo{com.instapro.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="InstaPro" />
   <item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.settings.SettingsActivity}" drawable="insular" name="Insular" />
   <item component="ComponentInfo{com.oasisfeng.island.fdroid/com.oasisfeng.island.settings.IslandSettingsActivity}" drawable="insular" name="Insular" />
   <item component="ComponentInfo{com.oasisfeng.island.fdroid/com.oasisfeng.island.MainActivity}" drawable="insular" name="Insular" />
@@ -6988,7 +6990,6 @@
   <item component="ComponentInfo{com.pure.indosat.care/com.pure.indosat.care.MainActivity}" drawable="myim3" name="myIM3" />
   <item component="ComponentInfo{com.pure.indosat.care/com.pure.indosat.care.SplashscreenActivity}" drawable="myim3" name="myIM3" />
   <item component="ComponentInfo{com.myinsta.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="MyInsta" />
-  <item component="ComponentInfo{com.instapro.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="InstaPro" />
   <item component="ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivityAlias2}" drawable="myjio" name="MyJio" />
   <item component="ComponentInfo{com.jio.myjio/com.jio.myjio.activities.StartAllAppView}" drawable="myjio" name="MyJio" />
   <item component="ComponentInfo{com.jio.myjio/com.jio.myjio.activities.StartFolderView}" drawable="myjio" name="MyJio" />
