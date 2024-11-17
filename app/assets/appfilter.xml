@@ -10208,7 +10208,7 @@
   <item component="ComponentInfo{com.maxrave.simpmusic/com.maxrave.simpmusic.ui.MainActivity}" drawable="simpmusic" name="SimpMusic" />
   <item component="ComponentInfo{com.ismaker.android.simsimi/com.ismaker.android.simsimi.MainActivity}" drawable="simsimi" name="SimSimi" />
   <item component="ComponentInfo{nl.simyo.mijnsimyo/nl.simyo.mijnsimyo.controller.activities.SplashActivity}" drawable="simyo" name="Simyo" />
-  <item component="ComponentInfo{io.nekohasekai.sfa/io.nekohasekai.sfa.ui.MainActivity}" drawable="sing_box" name="sing-box" />
+  <item component="ComponentInfo{xyz.chz.bfm/xyz.chz.bfm.ui.MainActivity}" drawable="sing_box" name="BoxForRoot" />
   <item component="ComponentInfo{sg.cotton.singabus/sg.cotton.singabus.MainActivity}" drawable="singabus" name="Singabus" />
   <item component="ComponentInfo{sg.ndi.sp/sg.ndi.activity.DashBoardActivity}" drawable="singpass" name="Singpass" />
   <item component="ComponentInfo{com.sipnetic.app/app.sipcomm.phone.OnboardingActivity}" drawable="sipnetic" name="Sipnetic" />
